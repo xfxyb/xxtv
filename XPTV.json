@@ -19,6 +19,12 @@
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/jianpian.js"
         },
         {
+      "name": "🔥剧迷_兔",
+      "type": 3,
+      "api": "csp_gimytv_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/gimytv_tu.js"
+    },
+        {
             "name": "🌈电影天堂",
             "type": 1,
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/"
