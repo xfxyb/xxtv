@@ -25,7 +25,7 @@
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/gimytv_tu.js"
         },
         {
-            "name": "🌈电影天堂",
+            "name": "🔥电影天堂",
             "type": 1,
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/"
         },
@@ -354,49 +354,49 @@
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ddys.js"
         },
         {
-            "name": "🎃次元方舟_兔",
+            "name": "🟠次元方舟_兔",
             "type": 3,
             "api": "csp_cyfz_tu",
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/cyfz_tu.js"
         },
         {
-            "name": "🎃喵物次元_兔",
+            "name": "🟠喵物次元_兔",
             "type": 3,
             "api": "csp_mwcy_tu",
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/mwcy_tu.js"
         },
         {
-            "name": "🎃ギリギリ动漫_兔",
+            "name": "🟠ギリギリ动漫_兔",
             "type": 3,
             "api": "csp_girigirilove_tu",
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/girigirilove_tu.js"
         },
         {
-            "name": "🎃次元城动画（无搜索）_兔",
+            "name": "🟠次元城动画（无搜索）_兔",
             "type": 3,
             "api": "csp_cyc_tu",
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/cyc_tu.js"
         },
         {
-            "name": "🎃嗷嗚動漫",
+            "name": "🟠嗷嗚動漫",
             "type": 3,
             "api": "csp_aowu",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/aowu.js"
         },
         {
-            "name": "🎃ギリギリ动漫",
+            "name": "🟠ギリギリ动漫",
             "type": 3,
             "api": "csp_ai",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ai.js"
         },
         {
-            "name": "🎃AGE动漫",
+            "name": "🟠AGE动漫",
             "type": 3,
             "api": "csp_age",
             "ext": "https://gist.githubusercontent.com/occupy-pluto/e3a7bb98d5027d0f6dfa85fc2ac11a78/raw/6deb0475d295ac867ccb9c7cf3b1fb212a77abd7/agedm.js"
         },
         {
-            "name": "🎃樱花动漫-line|昊",
+            "name": "🟠樱花动漫-line|昊",
             "type": 3,
             "api": "csp_yhdm",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/yhdm.js"
