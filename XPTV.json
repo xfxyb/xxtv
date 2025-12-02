@@ -402,7 +402,7 @@
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/yhdm.js"
         },
         {
-            "name": "🔞主播(live)",
+            "name": "🔴主播(live)",
             "type": 3,
             "api": "csp_harunasan",
             "ext": "https://gist.githubusercontent.com/Yswag/d9f072b75dab5b1b107c523dd148eea3/raw/harunasan.js"
@@ -438,7 +438,7 @@
             "ext": "https://raw.githubusercontent.com/xfxyb/XXTV/refs/heads/main/%E8%82%89%E8%A7%86%E9%A2%91.js"
         },
         {
-            "name": "🔞91Porn",
+            "name": "🔴91Porn",
             "type": 3,
             "api": "csp_91Porn",
             "ext": "https://raw.githubusercontent.com/hant1ng/xptv/refs/heads/main/91porn.js"
