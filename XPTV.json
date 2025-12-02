@@ -404,193 +404,193 @@
         },
         
         {
-            "name": "🍌主播(live)",
+            "name": "🈲主播(live)",
             "type": 3,
             "api": "csp_harunasan",
             "ext": "https://gist.githubusercontent.com/Yswag/d9f072b75dab5b1b107c523dd148eea3/raw/harunasan.js"
         },
         {
-            "name": "🍌MISSAV",
+            "name": "🈲MISSAV",
             "type": 3,
             "api": "csp_miss",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/missav.js"
         },
         {
-            "name": "🍌missav",
+            "name": "🈲missav",
             "type": 3,
             "api": "csp_js/missav",
             "ext": "https://raw.githubusercontent.com/fengtangyuan/nodejs/refs/heads/main/missav.js"
         },
         {
-            "name": "🍌Rouvideo",
+            "name": "🈲Rouvideo",
             "type": 3,
             "api": "csp_Rouvideo",
             "ext": "https://raw.githubusercontent.com/hant1ng/xptv/refs/heads/main/Rouvideo.js"
         },
         {
-            "name": "🍌肉视频",
+            "name": "🈲肉视频",
             "type": 3,
             "api": "csp_js/rousp",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/rousp.js"
         },
         {
-            "name": "🍌肉视频",
+            "name": "🈲肉视频",
             "type": 3,
             "api": "csp_rou",
             "ext": "https://raw.githubusercontent.com/xfxyb/XXTV/refs/heads/main/%E8%82%89%E8%A7%86%E9%A2%91.js"
         },
         {
-            "name": "🍌91Porn",
+            "name": "🈲91Porn",
             "type": 3,
             "api": "csp_91Porn",
             "ext": "https://raw.githubusercontent.com/hant1ng/xptv/refs/heads/main/91porn.js"
         },
         {
-            "name": "🍌91jav (無海報)",
+            "name": "🈲91jav (無海報)",
             "type": 3,
             "api": "csp_91jav",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/91jav.js"
         },
         {
-            "name": "🍌jable",
+            "name": "🈲jable",
             "type": 3,
             "api": "csp_jable",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jable.js"
         },
         {
-            "name": "🍌Pornhub",
+            "name": "🈲Pornhub",
             "type": 3,
             "api": "csp_pornhub",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/pornhub.js"
         },
         {
-            "name": "🍌SupJav",
+            "name": "🈲SupJav",
             "type": 3,
             "api": "csp_SupJav",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/SupJav.js"
         },
         {
-            "name": "🍌hohoj",
+            "name": "🈲hohoj",
             "type": 3,
             "api": "csp_hohoj",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hohoj.js"
         },
         {
-            "name": "🍌Taiav",
+            "name": "🈲Taiav",
             "type": 3,
             "api": "csp_Taiav",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/taiav.js"
         },
         {
-            "name": "🍌JavMove",
+            "name": "🈲JavMove",
             "type": 3,
             "api": "csp_JavMove",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/javmove.js"
         },
         {
-            "name": "🍌pppHub",
+            "name": "🈲pppHub",
             "type": 3,
             "api": "csp_pp/ron",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/pppPorn.js"
         },
         {
-            "name": "🍌pppHub",
+            "name": "🈲pppHub",
             "type": 3,
             "api": "csp_ppron",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ppp.js"
         },
         {
-            "name": "🍌AVDB",
+            "name": "🈲AVDB",
             "type": 3,
             "api": "csp_avdb",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/avdb.js"
         },
         {
-            "name": "🍌KanAV",
+            "name": "🈲KanAV",
             "type": 3,
             "api": "csp_kanav",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/kanav.js"
         },
         {
-            "name": "🍌avtoday",
+            "name": "🈲avtoday",
             "type": 3,
             "api": "csp_avtoday",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/avtoday.js"
         },
         {
-            "name": "🍌xhamster_兔",
+            "name": "🈲xhamster_兔",
             "type": 3,
             "api": "csp_xhamster_tu",
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/av/xhamster_tu.js"
         },
         {
-            "name": "🍌麻豆社",
+            "name": "🈲麻豆社",
             "type": 3,
             "api": "csp_madou",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/madou.js"
         },
         {
-            "name": "🍌麻豆村|昊",
+            "name": "🈲麻豆村|昊",
             "type": 3,
             "api": "csp_js/madoucun",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/madoucun.js"
         },
         {
-            "name": "🍌玩偶姐姐",
+            "name": "🈲玩偶姐姐",
             "type": 3,
             "api": "csp_hkdoll",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hkdoll.js"
         },
         {
-            "name": "🍌Hanime1",
+            "name": "🈲Hanime1",
             "type": 3,
             "api": "csp_Hanime1",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hanime.js"
         },
         {
-            "name": "🍌KoreaPornMovie",
+            "name": "🈲KoreaPornMovie",
             "type": 3,
             "api": "csp_KPM",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/KoreaPornMovie.js"
         },
         {
-            "name": "🍌花都影視",
+            "name": "🈲花都影視",
             "type": 3,
             "api": "csp_hdys",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hdys.js"
         },
         {
-            "name": "🍌有爱爱",
+            "name": "🈲有爱爱",
             "type": 3,
             "api": "csp_uaa",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/uua.js"
         },
         {
-            "name": "🍌kbjfan",
+            "name": "🈲kbjfan",
             "type": 3,
             "api": "csp_kbjfan",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/kbjfan.js"
         },
         {
-            "name": "🍌twivideo",
+            "name": "🈲twivideo",
             "type": 3,
             "api": "csp_twivideo",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/twivideo.js"
         },
         {
-            "name": "🍌naixxzy|昊",
+            "name": "🈲naixxzy|昊",
             "type": 3,
             "api": "csp_js/naixxzy",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/naixxzy.js"
         },
         {
-            "name": "🍌SpankBang",
+            "name": "🈲SpankBang",
             "type": 3,
             "api": "csp_SpankBang",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/SpankBang.js"
         },
         {
-            "name": "🍌EXPORNTOONS",
+            "name": "🈲EXPORNTOONS",
             "type": 3,
             "api": "csp_EXPORNTOONS",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/EXPORNTOONS.js"
@@ -806,8 +806,8 @@
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/jujiTV-line-pan.js"
         },
         {
-            "key": "🈲🔞奶香资源",
-            "name": "🈲🔞奶香资源",
+            "key": "🔞奶香资源",
+            "name": "🔞奶香资源",
             "type": 1,
             "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
             "playUrl": "",
@@ -815,8 +815,8 @@
             "quickSearch": 1
         },
         {
-            "key": "🈲🔞老色逼资源站",
-            "name": "🈲🔞老色逼资源站",
+            "key": "🔞老色逼资源站",
+            "name": "🔞老色逼资源站",
             "type": 1,
             "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
             "playUrl": "",
@@ -824,8 +824,8 @@
             "quickSearch": 1
         },
         {
-            "key": "🈲🔞幸资源站",
-            "name": "🈲🔞幸资源站",
+            "key": "🔞幸资源站",
+            "name": "🔞幸资源站",
             "type": 1,
             "api": "https://xzybb1.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -833,56 +833,56 @@
             "changeable": 1
         },
         {
-            "key": "🈲🔞百花资源",
-            "name": "🈲🔞百花资源",
+            "key": "🔞百花资源",
+            "name": "🔞百花资源",
             "type": 1,
             "api": "https://bhziyuan.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 0
         },
         {
-            "key": "🈲🔞黄AV资源",
-            "name": "🈲🔞黄AV资源",
+            "key": "🔞黄AV资源",
+            "name": "🔞黄AV资源",
             "type": 1,
             "api": "https://www.pgxdy.com/api/json.php?ac=list",
             "searchable": 1,
             "quickSearch": 0
         },
         {
-            "key": "🈲🔞iKun资源",
-            "name": "🈲🔞iKun资源",
+            "key": "🔞iKun资源",
+            "name": "🔞iKun资源",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json/",
             "searchable": 1,
             "quickSearch": 0
         },
         {
-            "key": "🈲🔞丝袜资源",
-            "name": "🈲🔞丝袜资源",
+            "key": "🔞丝袜资源",
+            "name": "🔞丝袜资源",
             "type": 1,
             "api": "https://siwazyw.tv/api.php/provide/vod/at/json/",
             "searchable": 1,
             "quickSearch": 0
         },
         {
-            "key": "🈲🔞优异资源",
-            "name": "🈲🔞优异资源",
+            "key": "🔞优异资源",
+            "name": "🔞优异资源",
             "type": 1,
             "api": "https://a.uezy.pw/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 0
         },
         {
-            "key": "🈲🔞湿乐园",
-            "name": "🈲🔞湿乐园",
+            "key": "🔞湿乐园",
+            "name": "🔞湿乐园",
             "type": 1,
             "api": "https://xxavs.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 0
         },
         {
-            "key": "🈲🔞番茄资源",
-            "name": "🈲🔞番茄资源",
+            "key": "🔞番茄资源",
+            "name": "🔞番茄资源",
             "type": 1,
             "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -890,8 +890,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞Jkun资源",
-            "name": "🈲🔞Jkun资源",
+            "key": "🔞Jkun资源",
+            "name": "🔞Jkun资源",
             "type": 1,
             "api": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -899,8 +899,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞香奶儿资源",
-            "name": "🈲🔞香奶儿资源",
+            "key": "🔞香奶儿资源",
+            "name": "🔞香奶儿资源",
             "type": 1,
             "api": "https://www.gdlsp.com/api/json.php?ac=list",
             "searchable": 1,
@@ -908,8 +908,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞淫水机资源",
-            "name": "🈲🔞淫水机资源",
+            "key": "🔞淫水机资源",
+            "name": "🔞淫水机资源",
             "type": 1,
             "api": "https://www.xrbsp.com/api/json.php?ac=list",
             "searchable": 1,
@@ -917,8 +917,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞美少女资源",
-            "name": "🈲🔞美少女资源",
+            "key": "🔞美少女资源",
+            "name": "🔞美少女资源",
             "type": 1,
             "api": "https://www.msnii.com/api/json.php?ac=list",
             "searchable": 1,
@@ -926,8 +926,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞白嫖资源",
-            "name": "🈲🔞白嫖资源",
+            "key": "🔞白嫖资源",
+            "name": "🔞白嫖资源",
             "type": 1,
             "api": "https://www.kxgav.com/api/json.php",
             "searchable": 1,
@@ -935,8 +935,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞奶香香资源",
-            "name": "🈲🔞奶香香资源",
+            "key": "🔞奶香香资源",
+            "name": "🔞奶香香资源",
             "type": 1,
             "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -944,8 +944,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞越南资源",
-            "name": "🈲🔞越南资源",
+            "key": "🔞越南资源",
+            "name": "🔞越南资源",
             "type": 1,
             "api": "https://api.vnzyz.com/api.php/provide/vod/",
             "searchable": 1,
@@ -953,8 +953,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞乐播资源",
-            "name": "🈲🔞乐播资源",
+            "key": "🔞乐播资源",
+            "name": "🔞乐播资源",
             "type": 1,
             "api": "https://lbapi9.com/api.php/provide/vod/at/json/",
             "searchable": 1,
@@ -962,8 +962,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞155资源",
-            "name": "🈲🔞155资源",
+            "key": "🔞155资源",
+            "name": "🔞155资源",
             "type": 1,
             "api": "https://155api.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -971,8 +971,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞辣椒资源",
-            "name": "🈲🔞辣椒资源",
+            "key": "🔞辣椒资源",
+            "name": "🔞辣椒资源",
             "type": 1,
             "api": "https://apilj.com/api.php/provide/vod/at/json/",
             "searchable": 1,
@@ -980,8 +980,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞滴滴资源网",
-            "name": "🈲🔞滴滴资源网",
+            "key": "🔞滴滴资源网",
+            "name": "🔞滴滴资源网",
             "type": 1,
             "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -989,8 +989,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞最色资源",
-            "name": "🈲🔞最色资源",
+            "key": "🔞最色资源",
+            "name": "🔞最色资源",
             "type": 1,
             "api": "https://api.zuiseapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -998,8 +998,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞搜AV资源",
-            "name": "🈲🔞搜AV资源",
+            "key": "🔞搜AV资源",
+            "name": "🔞搜AV资源",
             "type": 1,
             "api": "https://api.souavzy.vip/api.php/provide/vod/at/json",
             "searchable": 1,
@@ -1007,8 +1007,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞CK伦理资源",
-            "name": "🈲🔞CK伦理资源",
+            "key": "🔞CK伦理资源",
+            "name": "🔞CK伦理资源",
             "type": 1,
             "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -1016,8 +1016,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞黄色仓库",
-            "name": "🈲🔞黄色仓库",
+            "key": "🔞黄色仓库",
+            "name": "🔞黄色仓库",
             "type": 1,
             "api": "https://hsckzy888.com/api.php/provide/vod/at/json/",
             "searchable": 1,
@@ -1025,8 +1025,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞小鸡资源",
-            "name": "🈲🔞小鸡资源",
+            "key": "🔞小鸡资源",
+            "name": "🔞小鸡资源",
             "type": 1,
             "api": "https://api.xiaojizy.live/provide/vod",
             "searchable": 1,
@@ -1034,8 +1034,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞百万资源站",
-            "name": "🈲🔞百万资源站",
+            "key": "🔞百万资源站",
+            "name": "🔞百万资源站",
             "type": 1,
             "api": "https://api.bwzyz.com/api.php/provide/vod/at/json/",
             "searchable": 1,
@@ -1043,8 +1043,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞桃花资源",
-            "name": "🈲🔞桃花资源",
+            "key": "🔞桃花资源",
+            "name": "🔞桃花资源",
             "type": 1,
             "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -1052,8 +1052,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞优优资源网",
-            "name": "🈲🔞优优资源网",
+            "key": "🔞优优资源网",
+            "name": "🔞优优资源网",
             "type": 1,
             "api": "https://www.yyzywcj.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -1061,8 +1061,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞91资源站",
-            "name": "🈲🔞91资源站",
+            "key": "🔞91资源站",
+            "name": "🔞91资源站",
             "type": 1,
             "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
             "searchable": 1,
@@ -1070,8 +1070,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞大奶子资源站",
-            "name": "🈲🔞大奶子资源站",
+            "key": "🔞大奶子资源站",
+            "name": "🔞大奶子资源站",
             "type": 1,
             "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -1079,8 +1079,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞细胞网资源站",
-            "name": "🈲🔞细胞网资源站",
+            "key": "🔞细胞网资源站",
+            "name": "🔞细胞网资源站",
             "type": 1,
             "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -1088,8 +1088,8 @@
             "filterable": 0
         },
         {
-            "key": "🈲🔞杏吧资源站",
-            "name": "🈲🔞杏吧资源站",
+            "key": "🔞杏吧资源站",
+            "name": "🔞杏吧资源站",
             "type": 1,
             "api": "https://xingba222.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -1098,7 +1098,7 @@
         },
         {
             "key": "越南资源",
-            "name": "🈲🔞越南资源",
+            "name": "🔞越南资源",
             "type": 1,
             "api": "https://api.sexnguon.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
