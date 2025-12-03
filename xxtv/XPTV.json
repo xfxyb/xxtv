@@ -1,6 +1,12 @@
 {
     "sites": [
         {
+            "name": "人人",
+            "type": 3,
+            "api": "csp_rrmj",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/rrmj.js"
+        },
+        {
             "name": "ikan",
             "type": 3,
             "api": "csp_ikanbot_tu",
@@ -17,11 +23,6 @@
             "type": 3,
             "api": "csp_jianpian",
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/jianpian.js"
-        },{
-            "name": "人人",
-            "type": 3,
-            "api": "csp_rrmj",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/rrmj.js"
         },
         {
             "name": "瓜子",
