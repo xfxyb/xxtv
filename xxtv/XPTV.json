@@ -1,7 +1,7 @@
 {
     "sites": [
         {
-            "name": "ikanbot_兔",
+            "name": "ikan",
             "type": 3,
             "api": "csp_ikanbot_tu",
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/ikanbot_tu.js"
@@ -49,6 +49,36 @@
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/gimytv_tu.js"
         },
         {
+            "name": "麦田",
+            "type": 3,
+            "api": "csp_mtyy_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/mtyy_tu.js"
+        },
+        {
+            "name": "金牌",
+            "type": 3,
+            "api": "csp_jpyy",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js"
+        },
+        {
+            "name": "多乐",
+            "type": 3,
+            "api": "csp_duole_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/duole_tu.js"
+        },
+        {
+            "name": "哔滴",
+            "type": 3,
+            "api": "csp_bde4",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js"
+        },
+        {
+            "name": "燒火",
+            "type": 3,
+            "api": "csp_saohuo",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/saohuo.js"
+        },
+        {
             "name": "小蘋果",
             "type": 3,
             "api": "csp_apple",
@@ -81,12 +111,6 @@
         {
             "name": "独播库",
             "type": 3,
-            "api": "csp_duboku",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/duboku.js"
-        },
-        {
-            "name": "假独播库_兔",
-            "type": 3,
             "api": "csp_duboku_tu",
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/duboku_tu.js"
         },
@@ -109,58 +133,34 @@
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/nycvod_tu.js"
         },
         {
-            "name": "金牌影院",
-            "type": 3,
-            "api": "csp_jpyy",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js"
-        },
-        {
             "name": "电影天堂",
             "type": 3,
             "api": "csp_dytt",
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/dytt.js"
         },
         {
-            "name": "LIBVIO-1",
-            "type": 3,
-            "api": "csp_libvio",
-            "ext": "https://gist.githubusercontent.com/occupy-pluto/67cc3a53a26c631e32ed2f37e19e479d/raw/c5244f43a051335729ce33f10f2e82e2e899f0a5/libvio.js"
-        },
-        {
-            "name": "LIBVIO-2",
-            "type": 3,
-            "api": "csp_libviio",
-            "ext": "https://gist.githubusercontent.com/occupy-pluto/67cc3a53a26c631e32ed2f37e19e479d/raw/c5244f43a051335729ce33f10f2e82e2e899f0a5/libvio.js"
-        },
-        {
-            "name": "libvio- PAN",
+            "name": "libvio",
             "type": 3,
             "api": "csp_libvio_tu",
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/libvio_tu.js"
         },
         {
-            "name": "多乐影视_兔",
+            "name": "LiBVIO",
             "type": 3,
-            "api": "csp_duole_tu",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/duole_tu.js"
+            "api": "csp_libvio",
+            "ext": "https://gist.githubusercontent.com/occupy-pluto/67cc3a53a26c631e32ed2f37e19e479d/raw/c5244f43a051335729ce33f10f2e82e2e899f0a5/libvio.js"
         },
         {
-            "name": "两个BT_兔",
+            "name": "LIBVIO",
+            "type": 3,
+            "api": "csp_libviio",
+            "ext": "https://gist.githubusercontent.com/occupy-pluto/67cc3a53a26c631e32ed2f37e19e479d/raw/c5244f43a051335729ce33f10f2e82e2e899f0a5/libvio.js"
+        },
+        {
+            "name": "两个BT",
             "type": 3,
             "api": "csp_bttwo_tu",
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/bttwo_tu.js"
-        },
-        {
-            "name": "4kvm_兔",
-            "type": 3,
-            "api": "csp_4kvm_tu",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/4kvm_tu.js"
-        },
-        {
-            "name": "vidhub|昊",
-            "type": 3,
-            "api": "csp_js/vidhub",
-            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/vidhub.js"
         },
         {
             "name": "桃子影视",
@@ -175,28 +175,10 @@
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/dmxq.js"
         },
         {
-            "name": "哔滴影视",
-            "type": 3,
-            "api": "csp_bde4",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js"
-        },
-        {
             "name": "在线之家",
             "type": 3,
             "api": "csp_Zxzj",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/zxzj.js"
-        },
-        {
-            "name": "4k-av",
-            "type": 3,
-            "api": "csp_4kav",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
-        },
-        {
-            "name": "燒火電影",
-            "type": 3,
-            "api": "csp_saohuo",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/saohuo.js"
         },
         {
             "name": "NO視頻",
@@ -205,22 +187,34 @@
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/novipnoad.js"
         },
         {
-            "name": "星芽短劇",
-            "type": 3,
-            "api": "csp_xingya",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
-        },
-        {
             "name": "影视天堂",
             "type": 3,
             "api": "csp_ystt",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ystt.js"
         },
         {
-            "name": "麦田影院",
+            "name": "星芽短劇",
             "type": 3,
-            "api": "csp_mtyy_tu",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/mtyy_tu.js"
+            "api": "csp_xingya",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
+        },
+        {
+            "name": "4k-av",
+            "type": 3,
+            "api": "csp_4kav",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
+        },
+        {
+            "name": "4kvm",
+            "type": 3,
+            "api": "csp_4kvm_tu",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/4kvm_tu.js"
+        },
+        {
+            "name": "vidhub",
+            "type": 3,
+            "api": "csp_js/vidhub",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/vidhub.js"
         },
         {
             "name": "youknow",
@@ -283,28 +277,28 @@
             "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/qps.js"
         },
         {
-            "name": "♦️南風短劇 | PAN",
-            "type": 3,
-            "api": "csp_nanfdj",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/nanfdj.js"
-        },
-        {
-            "name": "♦️SeedHub | PAN",
+            "name": "♦️SeedHub",
             "type": 3,
             "api": "csp_seedhub",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/seedhub.js"
         },
         {
-            "name": "♦️Star2 | PAN",
+            "name": "♦️Star2",
             "type": 3,
             "api": "csp_star2",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/star2.js"
         },
         {
-            "name": "♦️云盘吧 | PAN",
+            "name": "♦️云盘吧",
             "type": 3,
             "api": "csp_yunpan8",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/yunpan8.js"
+        },
+        {
+            "name": "♦️南風短劇",
+            "type": 3,
+            "api": "csp_nanfdj",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/nanfdj.js"
         },
         {
             "name": "🔸次元方舟_兔",
