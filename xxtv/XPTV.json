@@ -1,6 +1,12 @@
 {
     "sites": [
         {
+      "name": "红果",
+      "type": 3,
+      "api": "csp_hongguo_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/hongguo_tu.js"
+    },
+        {
             "name": "人人",
             "type": 3,
             "api": "csp_rrmj",
