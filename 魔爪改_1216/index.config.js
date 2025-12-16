@@ -110,10 +110,13 @@ var index_config_base_default = {
     { siteName: "huban", displayName: "虎斑", defaultUrl: "http://103.45.162.207:20720" },
     { siteName: "xiaoer", displayName: "小二", defaultUrl: "https://erxiaofn.site" },
     { siteName: "muou", displayName: "木偶", defaultUrl: "http://www.muou.site" },
-    { siteName: "gy", displayName: "观影", defaultUrl: "http://www.gying.net" },
+    { siteName: "gy", displayName: "观影", defaultUrl: "https://hsckzy.vip/api.php/provide/vod" },
     { siteName: "xiaomi", displayName: "小米", defaultUrl: "http://mihdr.top" }
   ],
   //网站
+  hsek:{
+    url:"https://hsckzy.vip/api.php/provide/vod"
+  },
   age: {
     url: ""
   },
