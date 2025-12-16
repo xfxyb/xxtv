@@ -110,10 +110,10 @@ var index_config_base_default = {
     { siteName: "huban", displayName: "虎斑", defaultUrl: "http://103.45.162.207:20720" },
     { siteName: "xiaoer", displayName: "小二", defaultUrl: "https://erxiaofn.site" },
     { siteName: "muou", displayName: "木偶", defaultUrl: "http://www.muou.site" },
+    { siteName: "myvod", displayName: "玉兔", defaultUrl: "https://yutuzy10.com/api.php/provide/vod" },
     { siteName: "xiaomi", displayName: "小米", defaultUrl: "http://mihdr.top" }
   ],
-    { siteName: "myvod", displayName: "玉兔", defaultUrl: "https://yutuzy10.com/api.php/provide/vod" }
-  ],
+
 //网站
 myvod: {
   url: "https://yutuzy10.com/api.php/provide/vod",  // 自定义vod站的URL
