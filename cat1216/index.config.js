@@ -37,6 +37,10 @@ var index_config_base_default = {
       },
       {
         "name": "iptv",
+        "url": "https://raw.githubusercontent.com/xfxyb/xxtv/refs/heads/main/iptv/%E5%BF%AB%E4%B9%90%E8%8A%B1%E5%9B%AD.m3u"
+      },
+      {
+        "name": "18tv",
         "url": "https://cdn.jsdelivr.net/gh/Kimentanm/aptv/m3u/iptv.m3u"
       },
       {
