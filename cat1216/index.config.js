@@ -113,6 +113,10 @@ var index_config_base_default = {
     { siteName: "xiaomi", displayName: "小米", defaultUrl: "http://mihdr.top" }
   ],
   //网站
+  myvod: {
+    url: "https://yutuzy10.com/api.php/provide/vod",  // 自定义vod站的URL
+    // 可根据需要添加其他配置，如username、password等
+  },
   age: {
     url: ""
   },
@@ -209,6 +213,11 @@ var index_config_base_default = {
   //sites
   sites: {
     "list": [
+      {
+        "key": "nodejs_myvod",  // 自定义唯一key，建议以nodejs_开头
+        "name": "玉兔",    // 显示的站点名称
+        "enable": true          // 是否启用该站点
+      },
       {
         "key": "nodejs_douban",
         "name": "豆瓣",
