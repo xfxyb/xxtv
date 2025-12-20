@@ -38,19 +38,19 @@ let appConfig = {
             },
         },
         {
-            name: 'OnlyFans',
+            name: '蜜桃影像傳媒',
             ui: 1,
             ext: {
                 url: 'https://rou.video/t/蜜桃影像傳媒',
             },
         },
         {
-            name: 'OnlyFans',
+            name: '91沈先生',
             ui: 1,
             ext: {
                 url: 'https://rou.video/t/91沈先生',
             },
-        },
+      
         {
             name: '日本',
             ui: 1,
