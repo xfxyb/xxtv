@@ -37,20 +37,7 @@ let appConfig = {
                 url: 'https://rou.video/t/OnlyFans',
             },
         },
-        {
-            name: '蜜桃影像傳媒',
-            ui: 1,
-            ext: {
-                url: 'https://rou.video/t/蜜桃影像傳媒',
-            },
-        },
-        {
-            name: '91沈先生',
-            ui: 1,
-            ext: {
-                url: 'https://rou.video/t/91沈先生',
-            },
-        },
+
         {
             name: '日本',
             ui: 1,
@@ -58,6 +45,222 @@ let appConfig = {
                 url: 'https://rou.video/t/日本',
             },
         },
+        {
+            name: '91沈先生',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91沈先生' },
+        },
+        {
+            name: '探花精選400',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/探花精選400' },
+        },
+        {
+            name: '小寶尋花',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/小寶尋花' },
+        },
+        {
+            name: '91lisa',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91lisa' },
+        },
+        {
+            name: '調教小景甜',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/調教小景甜' },
+        },
+        {
+            name: '午夜尋花',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/午夜尋花' },
+        },
+        {
+            name: '91鳳鳴鳥唱',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91鳳鳴鳥唱' },
+        },
+        {
+            name: '大神精選',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/大神精選' },
+        },
+        {
+            name: 'AVOVE直播',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/AVOVE直播' },
+        },
+        {
+            name: '91貓先生',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91貓先生' },
+        },
+        {
+            name: '千人斬探花',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/千人斬探花' },
+        },
+        {
+            name: '全國探花',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/全國探花' },
+        },
+        {
+            name: '91Fans',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91Fans' },
+        },
+        {
+            name: '七天探花',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/七天探花' },
+        },
+        {
+            name: '9總全國探花',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/9總全國探花' },
+        },
+        {
+            name: '91大神 @LovELolita7',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91大神 @LovELolita7' },
+        },
+        {
+            name: '18歲母狗無限高潮',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/18歲母狗無限高潮' },
+        },
+        {
+            name: '鴨哥探花',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/鴨哥探花' },
+        },
+        {
+            name: '錘子探花',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/錘子探花' },
+        },
+        {
+            name: '探花合集',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/探花合集' },
+        },
+        {
+            name: '91不見星空',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91不見星空' },
+        },
+        {
+            name: '早期東莞ISO桑拿系列',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/早期東莞ISO桑拿系列' },
+        },
+        {
+            name: '91康先生',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91康先生' },
+        },
+        {
+            name: '肉オナホ',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/肉オナホ' },
+        },
+        {
+            name: '91大神唐伯虎',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91大神唐伯虎' },
+        },
+        {
+            name: '91風流哥全集',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91風流哥全集' },
+        },
+        {
+            name: '韋小寶',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/韋小寶' },
+        },
+        {
+            name: '91蜜桃的合集',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91蜜桃的合集' },
+        },
+        {
+            name: '換妻探花',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/換妻探花' },
+        },
+        {
+            name: '91大神括約肌大叔',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91大神括約肌大叔' },
+        },
+        {
+            name: '小陳頭星選',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/小陳頭星選' },
+        },
+        {
+            name: '情侶自拍',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/情侶自拍' },
+        },
+        {
+            name: '探花精選',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/探花精選' },
+        },
+        {
+            name: '91呆哥',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91呆哥' },
+        },
+        {
+            name: 'mmmn753',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/mmmn753' },
+        },
+        {
+            name: '楊導撩妹',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/楊導撩妹' },
+        },
+        {
+            name: '太子探花',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/太子探花' },
+        },
+        {
+            name: '歌廳探花陳先生',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/歌廳探花陳先生' },
+        },
+        {
+            name: '91美女涵菱',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91美女涵菱' },
+        },
+        {
+            name: 'jimmybiiig',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/jimmybiiig' },
+        },
+        {
+            name: '91唐哥',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91唐哥' },
+        },
+        {
+            name: '小馬尋花',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/小馬尋花' },
+        },
+        {
+            name: '91天堂原創',
+            ui: 1,
+            ext: { url: 'https://rou.video/t/91天堂原創' },
+        },
+
     ],
 }
 
