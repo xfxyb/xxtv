@@ -50,7 +50,7 @@ let appConfig = {
             ext: {
                 url: 'https://rou.video/t/91沈先生',
             },
-      
+        },
         {
             name: '日本',
             ui: 1,
